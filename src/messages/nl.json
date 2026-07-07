@@ -17,10 +17,10 @@
     "contact": "Contact"
   },
   "home": {
-    "metaTitle": "Jouw Fietswerkplaats — fietsreparatie & e-bike service in Amsterdam",
+    "metaTitle": "Jouw Fietswebsite — fietsreparatie & e-bike service in Amsterdam",
     "metaDescription": "Fietsenmaker in Amsterdam voor reparatie, onderhoud en e-bike accu service. Plus refurbished kringloopfietsen. Boek snel een reparatie.",
     "heroEyebrow": "Fietsenmaker in Amsterdam",
-    "heroTitle": "Jouw Fietswerkplaats",
+    "heroTitle": "Jouw Fietswebsite",
     "heroSubtitle": "Reparatie, onderhoud en e-bike service door een vakkundige fietsenmaker. En we knappen oude fietsen op tot betaalbare refurbished modellen.",
     "servicesKicker": "Wat we doen",
     "servicesTitle": "Onze diensten",
@@ -30,7 +30,7 @@
     "pricingIntro": "Duidelijke pakketprijzen, geen verrassingen achteraf.",
     "brandsTitle": "Merken die wij onderhouden",
     "statsTitle": "Lokaal, vakkundig, duurzaam",
-    "trustTitle": "Waarom Jouw Fietswerkplaats",
+    "trustTitle": "Waarom Jouw Fietswebsite",
     "trustIntro": "Vakwerk, eerlijke prijzen en oog voor duurzaamheid.",
     "refurbKicker": "Onze missie",
     "refurbTitle": "Van oude fiets naar nieuwe favoriet",
@@ -66,7 +66,7 @@
     "follow": "Volg @{handle}"
   },
   "repair": {
-    "metaTitle": "Reparatie & onderhoud — Jouw Fietswerkplaats Amsterdam",
+    "metaTitle": "Reparatie & onderhoud — Jouw Fietswebsite Amsterdam",
     "metaDescription": "Fietsreparatie en onderhoud in Amsterdam: banden, remmen, versnellingen en e-bike accu service. Vakkundig en snel.",
     "title": "Reparatie & onderhoud",
     "intro": "Wij verhelpen alles van een lekke band tot een complete onderhoudsbeurt — voor stadsfietsen, e-bikes en bakfietsen.",
@@ -83,10 +83,10 @@
     ]
   },
   "pricing": {
-    "metaTitle": "Onderhoud & service pakketten — Jouw Fietswerkplaats",
+    "metaTitle": "Onderhoud & service pakketten — Jouw Fietswebsite",
     "metaDescription": "Onderhoudspakketten voor je fiets: City, Premium, E-bike en Green Rebuild. Professioneel onderhoud voor stadsfietsen, e-bikes, fatbikes & bakfietsen.",
     "title": "Onderhoud & service pakketten",
-    "kicker": "Jouw Fietswerkplaats — Servicepakketten",
+    "kicker": "Jouw Fietswebsite — Servicepakketten",
     "intro": "Professioneel onderhoud voor stadsfietsen, e-bikes, fatbikes & bakfietsen.",
     "includedTitle": "Inbegrepen bij elk pakket",
     "included": "Montage van maximaal 3 standaard onderdelen inbegrepen in de arbeidskosten.",
@@ -96,7 +96,7 @@
     "disclaimer": "Genoemde inclusies worden met de klant bevestigd. Prijzen zijn indicatief, incl. btw."
   },
   "refurbished": {
-    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswerkplaats",
+    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswebsite",
     "metaDescription": "Betaalbare, opgeknapte fietsen en e-bikes te koop in Amsterdam. Volledig nagekeken, getest en rijklaar. Vraag direct aan.",
     "eyebrow": "Kringloop & refurbished",
     "title": "Opgeknapte fietsen te koop",
@@ -106,7 +106,7 @@
     "enquiryIntro": "Onze voorraad wisselt doorlopend. Laat weten waar je naar op zoek bent — we zoeken gericht voor je."
   },
   "sale": {
-    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswerkplaats",
+    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswebsite",
     "metaDescription": "Betaalbare, opgeknapte fietsen en e-bikes te koop in Amsterdam. Volledig nagekeken en rijklaar.",
     "title": "Fietsen te koop",
     "intro": "Onze opgeknapte fietsen en e-bikes: volledig nagekeken, rijklaar en duurzaam. Beter voor je portemonnee én de planeet.",
@@ -126,15 +126,15 @@
     "enquiryCrosslinkCta": "Doe een aanvraag →"
   },
   "contact": {
-    "metaTitle": "Contact & openingstijden — Jouw Fietswerkplaats Amsterdam",
-    "metaDescription": "Bezoek Jouw Fietswerkplaats aan de Voorbeeldstraat 1 in Amsterdam. Bekijk openingstijden, bel of stuur een bericht.",
+    "metaTitle": "Contact & openingstijden — Jouw Fietswebsite Amsterdam",
+    "metaDescription": "Bezoek Jouw Fietswebsite aan de Voorbeeldstraat 1 in Amsterdam. Bekijk openingstijden, bel of stuur een bericht.",
     "title": "Contact",
     "intro": "Loop binnen, bel of stuur een bericht. We helpen je graag verder.",
     "formTitle": "Stuur ons een bericht"
   },
   "booking": {
-    "metaTitle": "Boek een reparatie — Jouw Fietswerkplaats",
-    "metaDescription": "Plan online een fietsreparatie bij Jouw Fietswerkplaats in Amsterdam. Kies je fietstype, omschrijf de klacht en kies een pakket.",
+    "metaTitle": "Boek een reparatie — Jouw Fietswebsite",
+    "metaDescription": "Plan online een fietsreparatie bij Jouw Fietswebsite in Amsterdam. Kies je fietstype, omschrijf de klacht en kies een pakket.",
     "title": "Boek een reparatie",
     "intro": "Vul je gegevens in, omschrijf de klacht en kies een pakket. We nemen contact op om de afspraak te bevestigen."
   },
@@ -158,9 +158,9 @@
     "waSend": "Versturen via WhatsApp",
     "waBook": "Boeken via WhatsApp",
     "orCall": "Of bel ons:",
-    "waContactIntro": "Hoi Jouw Fietswerkplaats! Ik heb een vraag.",
-    "waBookingIntro": "Hoi Jouw Fietswerkplaats! Ik wil een reparatie boeken.",
-    "waEnquiryIntro": "Hoi Jouw Fietswerkplaats! Ik heb een vraag over jullie opgeknapte fietsen.",
+    "waContactIntro": "Hoi Jouw Fietswebsite! Ik heb een vraag.",
+    "waBookingIntro": "Hoi Jouw Fietswebsite! Ik wil een reparatie boeken.",
+    "waEnquiryIntro": "Hoi Jouw Fietswebsite! Ik heb een vraag over jullie opgeknapte fietsen.",
     "waSuccessTitle": "WhatsApp wordt geopend…",
     "waSuccessBody": "We hebben je bericht ingevuld — verstuur het in WhatsApp. Niet geopend? Gebruik de WhatsApp-knop of bel ons.",
     "waPrivacy": "Je bericht opent in WhatsApp en bereikt ons via WhatsApp (Meta). We gebruiken je gegevens alleen om je aanvraag te behandelen.",
@@ -201,9 +201,9 @@
     "termsTitle": "Algemene voorwaarden",
     "cookiesTitle": "Cookiebeleid",
     "placeholder": "Deze tekst wordt overgenomen vanuit de bestaande website en juridisch gecontroleerd vóór livegang.",
-    "socialProof": "Deze website toont openbare Instagram-posts en openbare Google-reviews van Jouw Fietswerkplaats, linkt terug naar de originele bronnen en respecteert verzoeken tot verwijdering.",
+    "socialProof": "Deze website toont openbare Instagram-posts en openbare Google-reviews van Jouw Fietswebsite, linkt terug naar de originele bronnen en respecteert verzoeken tot verwijdering.",
     "privacyUpdated": "Laatst bijgewerkt: 1 juli 2026",
-    "privacyIntro": "Dit beleid legt uit welke persoonsgegevens Jouw Fietswerkplaats verzamelt via jouwwerkplaats.nl, waarom, en welke rechten je hebt. Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01), is de verwerkingsverantwoordelijke voor deze gegevens. Voor vragen over privacy mail je naar info@jouwwerkplaats.nl.",
+    "privacyIntro": "Dit beleid legt uit welke persoonsgegevens Jouw Fietswebsite verzamelt via jouwfietswebsite.nl, waarom, en welke rechten je hebt. Jouw Fietswebsite, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01), is de verwerkingsverantwoordelijke voor deze gegevens. Voor vragen over privacy mail je naar info@jouwfietswebsite.nl.",
     "privacySections": [
       {
         "heading": "Welke persoonsgegevens we verzamelen",
@@ -261,7 +261,7 @@
         "heading": "Jouw rechten",
         "body": [
           "Onder de AVG heb je het recht om inzage te vragen in de persoonsgegevens die we van je hebben, ons te vragen onjuiste gegevens te corrigeren, ons te vragen je gegevens te verwijderen, de verwerking van je gegevens te beperken of hiertegen bezwaar te maken, een kopie van je gegevens in een overdraagbaar formaat op te vragen, en je toestemming op elk moment in te trekken, zonder gevolgen voor de verwerking die plaatsvond vóór de intrekking.",
-          "Om een van deze rechten uit te oefenen, mail je naar info@jouwwerkplaats.nl. Ben je niet tevreden met onze reactie? Dan heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl)."
+          "Om een van deze rechten uit te oefenen, mail je naar info@jouwfietswebsite.nl. Ben je niet tevreden met onze reactie? Dan heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl)."
         ]
       },
       {
@@ -284,12 +284,12 @@
       }
     ],
     "termsUpdated": "Laatst bijgewerkt: 2 juli 2026",
-    "termsIntro": "Deze algemene voorwaarden gelden voor alle offertes, reparaties, onderhoud, diensten en de verkoop van refurbished fietsen door Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01). Door een reparatie te boeken of een fiets bij ons te kopen, ga je akkoord met deze voorwaarden. Vragen? Mail naar info@jouwwerkplaats.nl of stuur ons een WhatsApp-bericht.",
+    "termsIntro": "Deze algemene voorwaarden gelden voor alle offertes, reparaties, onderhoud, diensten en de verkoop van refurbished fietsen door Jouw Fietswebsite, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01). Door een reparatie te boeken of een fiets bij ons te kopen, ga je akkoord met deze voorwaarden. Vragen? Mail naar info@jouwfietswebsite.nl of stuur ons een WhatsApp-bericht.",
     "termsSections": [
       {
         "heading": "1. Wie we zijn",
         "body": [
-          "Jouw Fietswerkplaats is een fietsenwerkplaats in Amsterdam voor fietsreparatie, onderhoud en refurbished fietsen. Deze voorwaarden gelden voor elke overeenkomst tussen Jouw Fietswerkplaats en jou als klant, tenzij we schriftelijk uitdrukkelijk iets anders afspreken."
+          "Jouw Fietswebsite is een fietsenwerkplaats in Amsterdam voor fietsreparatie, onderhoud en refurbished fietsen. Deze voorwaarden gelden voor elke overeenkomst tussen Jouw Fietswebsite en jou als klant, tenzij we schriftelijk uitdrukkelijk iets anders afspreken."
         ]
       },
       {
@@ -318,7 +318,7 @@
         "heading": "5. Betaling",
         "body": [
           "Betaling vindt plaats bij het afronden van de reparatie of bij levering van de fiets, tenzij we anders afspreken. We accepteren de betaalmethoden die in de werkplaats worden gecommuniceerd.",
-          "De fiets blijft eigendom van Jouw Fietswerkplaats totdat deze volledig is betaald."
+          "De fiets blijft eigendom van Jouw Fietswebsite totdat deze volledig is betaald."
         ]
       },
       {
@@ -351,7 +351,7 @@
       {
         "heading": "10. Klachten",
         "body": [
-          "Ergens niet tevreden over? Neem contact met ons op via info@jouwwerkplaats.nl of WhatsApp en beschrijf het probleem. We reageren binnen een redelijke termijn en proberen het eerst samen op te lossen.",
+          "Ergens niet tevreden over? Neem contact met ons op via info@jouwfietswebsite.nl of WhatsApp en beschrijf het probleem. We reageren binnen een redelijke termijn en proberen het eerst samen op te lossen.",
           "Komen we er samen niet uit? Dan is Nederlands recht van toepassing en kunnen geschillen worden voorgelegd aan de bevoegde Nederlandse rechter."
         ]
       },
@@ -363,7 +363,7 @@
       }
     ],
     "cookiesUpdated": "Laatst bijgewerkt: 2 juli 2026",
-    "cookiesIntro": "Dit cookiebeleid legt uit welke cookies en vergelijkbare technieken deze website gebruikt, waarom, en hoe je ze kunt beheren. Het wordt aangeboden door Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). Voor vragen mail je naar info@jouwwerkplaats.nl.",
+    "cookiesIntro": "Dit cookiebeleid legt uit welke cookies en vergelijkbare technieken deze website gebruikt, waarom, en hoe je ze kunt beheren. Het wordt aangeboden door Jouw Fietswebsite, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). Voor vragen mail je naar info@jouwfietswebsite.nl.",
     "cookiesSections": [
       {
         "heading": "Wat zijn cookies?",

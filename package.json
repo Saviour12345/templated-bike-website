@@ -1,8 +1,8 @@
 {
-  "name": "templated-bike-website",
+  "name": "your-bike-website",
   "version": "0.1.0",
   "private": true,
-  "description": "White-label bike shop website template for Dutch refurbishing businesses.",
+  "description": "Your Bike Website — white-label template for Dutch bike refurbishing businesses.",
   "workspaces": [
     "packages/*"
   ],

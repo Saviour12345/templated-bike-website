@@ -37,3 +37,5 @@ apps/*/public/scenes/**/*.psd
 apps/eco-bike/site-preview/
 
 .vercel
+
+.vercel

@@ -5,15 +5,15 @@ import type { Nap } from '@max/ui';
  * Replace all placeholder values below with your shop's real business details.
  */
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://templated-bike-website.vercel.app';
-export const SITE_NAME = 'Your Bike Shop';
+export const SITE_NAME = 'Your Bike Website';
 
 /** Optional integrations — components/handlers no-op safely when unset. */
 export const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 
 /** Placeholder NAP — edit before going live. Single source for footer + LocalBusiness schema. */
 export const NAP: Nap = {
-  businessName: 'Your Bike Shop',
-  legalName: 'Your Bike Shop B.V.',
+  businessName: 'Your Bike Website',
+  legalName: 'Your Bike Website B.V.',
   streetAddress: 'Voorbeeldstraat 1',
   postalCode: '1234 AB',
   city: 'Amsterdam',
@@ -22,7 +22,7 @@ export const NAP: Nap = {
   phone: '+31600000000',
   phoneDisplay: '+31 6 00000000',
   whatsapp: '31600000000',
-  email: 'info@yourbikeshop.nl',
+  email: 'info@yourbikewebsite.nl',
   kvk: '00000000',
   btw: 'NL000000000B01',
   openingHours: [
@@ -34,7 +34,7 @@ export const NAP: Nap = {
 };
 
 /** Address string for the keyless Google Maps embed. */
-export const MAP_QUERY = 'Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam';
+export const MAP_QUERY = 'Your Bike Website, Voorbeeldstraat 1, 1234 AB Amsterdam';
 
 /** Google Place ID — set via NEXT_PUBLIC_GOOGLE_PLACE_ID when you have a verified listing. */
 export const GOOGLE_PLACE_ID = process.env.NEXT_PUBLIC_GOOGLE_PLACE_ID;

@@ -17,10 +17,10 @@
     "contact": "Contact"
   },
   "home": {
-    "metaTitle": "Your Bike Shop — bike repair & e-bike service in Amsterdam",
+    "metaTitle": "Your Bike Website — bike repair & e-bike service in Amsterdam",
     "metaDescription": "Bike workshop in Amsterdam for repair, maintenance and e-bike battery service. Plus refurbished recycled bikes. Book a repair fast.",
     "heroEyebrow": "Bike workshop in Amsterdam",
-    "heroTitle": "Your Bike Shop",
+    "heroTitle": "Your Bike Website",
     "heroSubtitle": "Repair, maintenance and e-bike service by an expert mechanic. And we refurbish old bikes into affordable, reliable models.",
     "servicesKicker": "What we do",
     "servicesTitle": "Our services",
@@ -30,7 +30,7 @@
     "pricingIntro": "Clear package pricing, no surprises.",
     "brandsTitle": "Brands we service",
     "statsTitle": "Local, expert, sustainable",
-    "trustTitle": "Why Your Bike Shop",
+    "trustTitle": "Why Your Bike Website",
     "trustIntro": "Craftsmanship, fair pricing and a focus on sustainability.",
     "refurbKicker": "Our mission",
     "refurbTitle": "From old bike to new favourite",
@@ -66,7 +66,7 @@
     "follow": "Follow @{handle}"
   },
   "repair": {
-    "metaTitle": "Repair & maintenance — Your Bike Shop Amsterdam",
+    "metaTitle": "Repair & maintenance — Your Bike Website Amsterdam",
     "metaDescription": "Bike repair and maintenance in Amsterdam: tyres, brakes, gears and e-bike battery service. Expert and fast.",
     "title": "Repair & maintenance",
     "intro": "We fix everything from a flat tyre to a full service — for city bikes, e-bikes and cargo bikes.",
@@ -83,10 +83,10 @@
     ]
   },
   "pricing": {
-    "metaTitle": "Maintenance & service packages — Your Bike Shop",
+    "metaTitle": "Maintenance & service packages — Your Bike Website",
     "metaDescription": "Bike maintenance packages: City, Premium, E-bike and Green Rebuild. Professional maintenance for city bikes, e-bikes, fatbikes & cargo bikes.",
     "title": "Maintenance & service packages",
-    "kicker": "Your Bike Shop — Service packages",
+    "kicker": "Your Bike Website — Service packages",
     "intro": "Professional maintenance for city bikes, e-bikes, fatbikes & cargo bikes.",
     "includedTitle": "Included with every package",
     "included": "Mounting of up to 3 standard parts included in the labour costs.",
@@ -96,7 +96,7 @@
     "disclaimer": "Listed inclusions are confirmed with the customer. Prices are indicative, incl. VAT."
   },
   "refurbished": {
-    "metaTitle": "Refurbished bikes for sale — Your Bike Shop",
+    "metaTitle": "Refurbished bikes for sale — Your Bike Website",
     "metaDescription": "Affordable refurbished bikes and e-bikes for sale in Amsterdam. Fully serviced, tested and road-ready. Enquire directly.",
     "eyebrow": "Recycled & refurbished",
     "title": "Refurbished bikes for sale",
@@ -106,7 +106,7 @@
     "enquiryIntro": "Our stock changes regularly. Tell us what you’re after — we’ll search specifically for you."
   },
   "sale": {
-    "metaTitle": "Refurbished bikes for sale — Your Bike Shop",
+    "metaTitle": "Refurbished bikes for sale — Your Bike Website",
     "metaDescription": "Affordable refurbished bikes and e-bikes for sale in Amsterdam. Fully serviced and road-ready.",
     "title": "Bikes for sale",
     "intro": "Our refurbished bikes and e-bikes: fully serviced, road-ready and sustainable. Better for your wallet and the planet.",
@@ -126,15 +126,15 @@
     "enquiryCrosslinkCta": "Send an enquiry →"
   },
   "contact": {
-    "metaTitle": "Contact & opening hours — Your Bike Shop Amsterdam",
-    "metaDescription": "Visit Your Bike Shop at Voorbeeldstraat 1 in Amsterdam. See opening hours, call or send a message.",
+    "metaTitle": "Contact & opening hours — Your Bike Website Amsterdam",
+    "metaDescription": "Visit Your Bike Website at Voorbeeldstraat 1 in Amsterdam. See opening hours, call or send a message.",
     "title": "Contact",
     "intro": "Drop by, call or send a message. We’re happy to help.",
     "formTitle": "Send us a message"
   },
   "booking": {
-    "metaTitle": "Book a repair — Your Bike Shop",
-    "metaDescription": "Book a bike repair online at Your Bike Shop in Amsterdam. Choose your bike type, describe the issue and pick a package.",
+    "metaTitle": "Book a repair — Your Bike Website",
+    "metaDescription": "Book a bike repair online at Your Bike Website in Amsterdam. Choose your bike type, describe the issue and pick a package.",
     "title": "Book a repair",
     "intro": "Fill in your details, describe the issue and pick a package. We’ll get in touch to confirm the appointment."
   },
@@ -158,9 +158,9 @@
     "waSend": "Send via WhatsApp",
     "waBook": "Book via WhatsApp",
     "orCall": "Or call us:",
-    "waContactIntro": "Hi Your Bike Shop! I have a question.",
-    "waBookingIntro": "Hi Your Bike Shop! I’d like to book a repair.",
-    "waEnquiryIntro": "Hi Your Bike Shop! I have a question about your refurbished bikes.",
+    "waContactIntro": "Hi Your Bike Website! I have a question.",
+    "waBookingIntro": "Hi Your Bike Website! I’d like to book a repair.",
+    "waEnquiryIntro": "Hi Your Bike Website! I have a question about your refurbished bikes.",
     "waSuccessTitle": "Opening WhatsApp…",
     "waSuccessBody": "We’ve prefilled your message — just hit send in WhatsApp. Didn’t it open? Use the WhatsApp button or call us.",
     "waPrivacy": "Your message opens in WhatsApp and reaches us via WhatsApp (Meta). We use your details only to handle your request.",
@@ -201,9 +201,9 @@
     "termsTitle": "Terms & conditions",
     "cookiesTitle": "Cookie policy",
     "placeholder": "This text will be ported from the existing website and legally reviewed before launch.",
-    "socialProof": "This website displays Your Bike Shop's own public Instagram posts and public Google reviews, links back to the originals, and honours removal requests.",
+    "socialProof": "This website displays Your Bike Website's own public Instagram posts and public Google reviews, links back to the originals, and honours removal requests.",
     "privacyUpdated": "Last updated: 1 July 2026",
-    "privacyIntro": "This policy explains what personal data Your Bike Shop collects through yourbikeshop.nl, why, and what rights you have. Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01), is the controller responsible for this data. For any privacy question, email info@yourbikeshop.nl.",
+    "privacyIntro": "This policy explains what personal data Your Bike Website collects through yourbikewebsite.nl, why, and what rights you have. Your Bike Website, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01), is the controller responsible for this data. For any privacy question, email info@yourbikewebsite.nl.",
     "privacySections": [
       {
         "heading": "What personal data we collect",
@@ -261,7 +261,7 @@
         "heading": "Your rights",
         "body": [
           "Under the GDPR (in Dutch: AVG) you have the right to ask for access to the personal data we hold about you, ask us to correct inaccurate data, ask us to erase your data, ask us to restrict or object to our processing, ask for a copy of your data in a portable format, and withdraw consent at any time, without affecting processing carried out before the withdrawal.",
-          "To exercise any of these rights, email info@yourbikeshop.nl. If you're not satisfied with our response, you have the right to lodge a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, autoriteitpersoonsgegevens.nl)."
+          "To exercise any of these rights, email info@yourbikewebsite.nl. If you're not satisfied with our response, you have the right to lodge a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, autoriteitpersoonsgegevens.nl)."
         ]
       },
       {
@@ -284,12 +284,12 @@
       }
     ],
     "termsUpdated": "Last updated: 2 July 2026",
-    "termsIntro": "These terms and conditions apply to all quotes, repairs, maintenance, services, and sales of refurbished bikes by Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01). By booking a repair or buying a bike from us, you agree to these terms. Questions? Email info@yourbikeshop.nl or message us on WhatsApp.",
+    "termsIntro": "These terms and conditions apply to all quotes, repairs, maintenance, services, and sales of refurbished bikes by Your Bike Website, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01). By booking a repair or buying a bike from us, you agree to these terms. Questions? Email info@yourbikewebsite.nl or message us on WhatsApp.",
     "termsSections": [
       {
         "heading": "1. Who we are",
         "body": [
-          "Your Bike Shop is a bike workshop in Amsterdam offering bike repair, maintenance, and refurbished bikes. These terms apply to every agreement between Your Bike Shop and you as a customer, unless we explicitly agree otherwise in writing."
+          "Your Bike Website is a bike workshop in Amsterdam offering bike repair, maintenance, and refurbished bikes. These terms apply to every agreement between Your Bike Website and you as a customer, unless we explicitly agree otherwise in writing."
         ]
       },
       {
@@ -318,7 +318,7 @@
         "heading": "5. Payment",
         "body": [
           "Payment is due on completion of the repair or on delivery of the bike, unless we agree otherwise. We accept the payment methods communicated in the workshop.",
-          "The bike remains the property of Your Bike Shop until it has been paid for in full."
+          "The bike remains the property of Your Bike Website until it has been paid for in full."
         ]
       },
       {
@@ -351,7 +351,7 @@
       {
         "heading": "10. Complaints",
         "body": [
-          "Not happy with something? Contact us at info@yourbikeshop.nl or via WhatsApp and describe the problem. We respond within a reasonable time and try to solve it together first.",
+          "Not happy with something? Contact us at info@yourbikewebsite.nl or via WhatsApp and describe the problem. We respond within a reasonable time and try to solve it together first.",
           "If we cannot work it out, disputes are governed by Dutch law and may be submitted to the competent Dutch court."
         ]
       },
@@ -363,7 +363,7 @@
       }
     ],
     "cookiesUpdated": "Last updated: 2 July 2026",
-    "cookiesIntro": "This cookie policy explains which cookies and similar technologies this website uses, why, and how you can manage them. It is provided by Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). For questions, email info@yourbikeshop.nl.",
+    "cookiesIntro": "This cookie policy explains which cookies and similar technologies this website uses, why, and how you can manage them. It is provided by Your Bike Website, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). For questions, email info@yourbikewebsite.nl.",
     "cookiesSections": [
       {
         "heading": "What are cookies?",

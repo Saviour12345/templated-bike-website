@@ -1,6 +1,6 @@
-# Templated Bike Website
+# Your Bike Website
 
-White-label website template for Dutch bike refurbishing and repair shops. Fork this repo, customize your branding, and deploy to Vercel.
+White-label **Your Bike Website** template for Dutch bike refurbishing and repair shops. Fork this repo, customize your branding, and deploy to Vercel.
 
 ## Quick start
 
