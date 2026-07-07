@@ -1,0 +1,17 @@
+/**
+ * Theme: trades-steel (Max Magic Touch).
+ * Solid, trustworthy, reassuring — deep steel-blue with a confident orange accent.
+ */
+:root,
+[data-theme='trades-steel'] {
+  --color-bg: 255 255 255;
+  --color-fg: 15 23 42; /* slate-900 */
+  --color-surface: 241 245 249; /* slate-100 */
+  --color-primary: 30 58 138; /* blue-900 / deep steel — high contrast, trustworthy */
+  --color-primary-fg: 255 255 255;
+  --color-accent: 234 88 12; /* orange-600 — confident call-to-action */
+  --color-accent-fg: 255 255 255;
+  --color-muted: 71 85 105; /* slate-600 (AA on white) */
+  --color-border: 226 232 240; /* slate-200 */
+  --color-ring: 234 88 12;
+}

@@ -1,0 +1,24 @@
+/**
+ * Theme: eco-green (Max Eco Bike) — "Kinetic Eco" redesign.
+ * Warm cream canvas, deep-pine brand surface, vivid lime accent, emerald primary.
+ * Energetic + premium; built to escape the generic look.
+ */
+:root,
+[data-theme='eco-green'] {
+  --color-bg: 250 250 244; /* warm cream */
+  --color-fg: 13 27 20; /* deep ink green-black */
+  --color-surface: 255 255 255; /* white cards pop on cream */
+  --color-primary: 4 120 87; /* emerald-700 — AA on cream/white */
+  --color-primary-fg: 255 255 255;
+  --color-accent: 132 204 22; /* lime-500 — energetic pop */
+  --color-accent-fg: 13 27 20; /* dark ink on lime (AA) */
+  --color-muted: 75 99 87; /* green-gray, AA on cream */
+  --color-border: 224 231 225;
+  --color-ring: 4 120 87;
+
+  /* Redesign extensions (Eco Bike only) — used via arbitrary Tailwind values. */
+  --color-brand-dark: 6 38 28; /* deep pine — CTA band / footer / stage */
+  --color-brand-dark-fg: 236 253 245;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+}

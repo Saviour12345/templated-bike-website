@@ -1,0 +1,60 @@
+/**
+ * @max/tokens — base (theme-agnostic) tokens.
+ *
+ * Import order in each app's globals.css:
+ *   @import '@max/tokens/base.css';
+ *   @import '@max/tokens/themes/<brand>.css';
+ *
+ * Colours live in the per-brand theme files as space-separated RGB channels.
+ * Everything structural (radius, fonts, spacing rhythm, motion) lives here.
+ */
+
+:root {
+  /* Radius scale */
+  --radius-sm: 0.5rem;
+  --radius: 0.75rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+  --radius-full: 9999px;
+
+  /* Type families. Apps assign real fonts via next/font and override --font-sans/--font-display. */
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial,
+    "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+  --font-display: var(--font-sans);
+
+  /* Vertical rhythm for <Section> padding */
+  --space-section: clamp(3rem, 8vw, 6rem);
+
+  /* Motion tokens — single source of truth, mirrored in @max/tokens/motion (TS) */
+  --motion-duration-fast: 150ms;
+  --motion-duration: 250ms;
+  --motion-duration-slow: 450ms;
+  --motion-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --motion-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --motion-travel: 24px;
+  --motion-stagger: 60ms;
+}
+
+/*
+ * Global reduced-motion kill-switch (Workstream 6 hard rule).
+ * Freezes scenes in their assembled/static state and zeroes all travel.
+ * Components must still render a usable static fallback; this only neutralises motion.
+ */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --motion-duration-fast: 0ms;
+    --motion-duration: 0ms;
+    --motion-duration-slow: 0ms;
+    --motion-travel: 0px;
+    --motion-stagger: 0ms;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

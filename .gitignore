@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Production
+*.tsbuildinfo
+next-env.d.ts
+
+# Env
+.env
+.env*.local
+.env.local
+
+# Vercel
+.vercel
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*
+.turbo
+
+# Lighthouse CI
+.lighthouseci/
+
+# Generated assets (raw 4K Nano Banana Pro source lives outside the repo; see assets/README)
+apps/*/public/scenes/**/*.psd
+
+# Dev preview screenshots (not part of the deployed app)
+apps/eco-bike/site-preview/
+
+.vercel

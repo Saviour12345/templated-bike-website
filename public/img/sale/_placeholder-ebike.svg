@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="E-bike photo coming soon">
+  <rect width="400" height="300" fill="#fef3e8"/>
+  <g fill="none" stroke="#ea580c" stroke-width="6" stroke-linecap="round">
+    <circle cx="120" cy="190" r="46"/>
+    <circle cx="280" cy="190" r="46"/>
+    <path d="M120 190 L175 120 L255 120 M175 120 L210 190 L280 190 M210 190 L150 190"/>
+  </g>
+  <g transform="translate(186,150)">
+    <rect x="0" y="0" width="34" height="20" rx="3" fill="#ea580c"/>
+    <rect x="34" y="6" width="5" height="8" fill="#ea580c"/>
+    <text x="17" y="15" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="800" fill="#fff">E</text>
+  </g>
+  <text x="200" y="262" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#ea580c">Foto volgt · Photo coming</text>
+</svg>

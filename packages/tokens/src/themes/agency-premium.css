@@ -1,0 +1,17 @@
+/**
+ * Theme: agency-premium (Max Globus).
+ * Modern, creative, premium — dark surfaces, refined type, vivid violet + cyan accents.
+ */
+:root,
+[data-theme='agency-premium'] {
+  --color-bg: 9 9 14; /* near-black */
+  --color-fg: 244 244 245; /* zinc-100 */
+  --color-surface: 24 24 33; /* elevated dark surface */
+  --color-primary: 139 92 246; /* violet-500 */
+  --color-primary-fg: 255 255 255;
+  --color-accent: 34 211 238; /* cyan-400 */
+  --color-accent-fg: 9 9 14;
+  --color-muted: 161 161 170; /* zinc-400 (AA on near-black) */
+  --color-border: 39 39 50;
+  --color-ring: 34 211 238;
+}

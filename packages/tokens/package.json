@@ -1,0 +1,16 @@
+{
+  "name": "@max/tokens",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Design tokens for the Max portfolio: CSS-variable contract + 3 brand themes + motion tokens.",
+  "exports": {
+    "./base.css": "./src/base.css",
+    "./themes/eco-green.css": "./src/themes/eco-green.css",
+    "./themes/trades-steel.css": "./src/themes/trades-steel.css",
+    "./themes/bike-steel.css": "./src/themes/bike-steel.css",
+    "./motion": "./src/motion.ts"
+  },
+  "files": [
+    "src"
+  ]
+}

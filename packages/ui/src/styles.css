@@ -1,0 +1,15 @@
+/**
+ * @max/ui component-layer styles. Optional import: `@import '@max/ui/styles.css';`
+ * Most styling is Tailwind utilities driven by tokens; this only holds a few
+ * cross-cutting niceties that are awkward to express inline.
+ */
+
+/* Smooth in-page anchor scrolling, disabled under reduced-motion via base.css. */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Consistent focus ring offset colour on themed surfaces. */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: none;
+}

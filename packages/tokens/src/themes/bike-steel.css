@@ -1,0 +1,23 @@
+/**
+ * Theme: bike-steel — white-label bike shop template.
+ * Trustworthy steel-blue primary with confident orange accent.
+ */
+:root,
+[data-theme='bike-steel'] {
+  --color-bg: 255 255 255;
+  --color-fg: 15 23 42; /* slate-900 */
+  --color-surface: 241 245 249; /* slate-100 */
+  --color-primary: 30 58 138; /* blue-900 / deep steel */
+  --color-primary-fg: 255 255 255;
+  --color-accent: 234 88 12; /* orange-600 */
+  --color-accent-fg: 255 255 255;
+  --color-muted: 71 85 105; /* slate-600 */
+  --color-border: 226 232 240; /* slate-200 */
+  --color-ring: 234 88 12;
+
+  /* Dark band surfaces (CTA band / footer / hero stage). */
+  --color-brand-dark: 15 23 42; /* slate-900 */
+  --color-brand-dark-fg: 248 250 252;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+}

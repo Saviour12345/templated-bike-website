@@ -1,0 +1,16 @@
+{
+  "name": "@max/config",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared build config for the Max portfolio: Tailwind preset, tsconfig base, prettier.",
+  "exports": {
+    "./tailwind-preset": "./tailwind-preset.js",
+    "./prettier": "./prettier.config.js",
+    "./tsconfig.base.json": "./tsconfig.base.json"
+  },
+  "files": [
+    "tailwind-preset.js",
+    "prettier.config.js",
+    "tsconfig.base.json"
+  ]
+}

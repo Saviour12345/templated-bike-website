@@ -1,0 +1,417 @@
+{
+  "common": {
+    "call": "Bel ons",
+    "whatsapp": "WhatsApp",
+    "bookRepair": "Boek een reparatie",
+    "viewPricing": "Bekijk prijzen",
+    "allServices": "Alle diensten",
+    "moreInfo": "Meer info",
+    "languageName": "Nederlands",
+    "visitTitle": "Bezoek de werkplaats"
+  },
+  "nav": {
+    "home": "Home",
+    "repair": "Reparatie & onderhoud",
+    "pricing": "Prijzen",
+    "refurbished": "Refurbished fietsen te koop",
+    "contact": "Contact"
+  },
+  "home": {
+    "metaTitle": "Jouw Fietswerkplaats — fietsreparatie & e-bike service in Amsterdam",
+    "metaDescription": "Fietsenmaker in Amsterdam voor reparatie, onderhoud en e-bike accu service. Plus refurbished kringloopfietsen. Boek snel een reparatie.",
+    "heroEyebrow": "Fietsenmaker in Amsterdam",
+    "heroTitle": "Jouw Fietswerkplaats",
+    "heroSubtitle": "Reparatie, onderhoud en e-bike service door een vakkundige fietsenmaker. En we knappen oude fietsen op tot betaalbare refurbished modellen.",
+    "servicesKicker": "Wat we doen",
+    "servicesTitle": "Onze diensten",
+    "servicesIntro": "Van een snelle reparatie tot een complete e-bike beurt.",
+    "pricingKicker": "Tarieven",
+    "pricingTitle": "Onderhoudspakketten",
+    "pricingIntro": "Duidelijke pakketprijzen, geen verrassingen achteraf.",
+    "brandsTitle": "Merken die wij onderhouden",
+    "statsTitle": "Lokaal, vakkundig, duurzaam",
+    "trustTitle": "Waarom Jouw Fietswerkplaats",
+    "trustIntro": "Vakwerk, eerlijke prijzen en oog voor duurzaamheid.",
+    "refurbKicker": "Onze missie",
+    "refurbTitle": "Van oude fiets naar nieuwe favoriet",
+    "refurbBody": "Wij geven afgedankte fietsen een tweede leven: volledig nagekeken en opgeknapt tot betrouwbare, betaalbare modellen. Beter voor je portemonnee én de planeet.",
+    "refurbCta": "Ontdek refurbished",
+    "faqTitle": "Veelgestelde vragen",
+    "ctaKicker": "Aan de slag",
+    "ctaTitle": "Klaar om je fiets te laten maken?",
+    "ctaSubtitle": "Plan een reparatie of stel je vraag direct via WhatsApp.",
+    "visitTitle": "Bezoek de werkplaats"
+  },
+  "trust": {
+    "brands": "Merken onderhouden",
+    "packages": "Onderhoudspakketten",
+    "ebike": "E-bike specialist",
+    "refurb": "Refurbished & recycle",
+    "projects": "Projecten",
+    "clients": "Klanten",
+    "awards": "Prijzen"
+  },
+  "social": {
+    "reviewsKicker": "Wat klanten zeggen",
+    "reviewsTitle": "Beoordeeld door onze klanten",
+    "reviewsIntro": "Echte reviews van klanten in en rond Amsterdam.",
+    "reviewsNoun": "Google reviews",
+    "onGoogle": "reviews op Google",
+    "readAll": "Lees alle reviews op Google",
+    "leaveReview": "Schrijf een review",
+    "via": "via Google",
+    "instagramKicker": "Ons werk",
+    "instagramTitle": "Zie ons aan het werk",
+    "instagramIntro": "Reparaties, refurbished fietsen en before/afters — volg ons op Instagram.",
+    "follow": "Volg @{handle}"
+  },
+  "repair": {
+    "metaTitle": "Reparatie & onderhoud — Jouw Fietswerkplaats Amsterdam",
+    "metaDescription": "Fietsreparatie en onderhoud in Amsterdam: banden, remmen, versnellingen en e-bike accu service. Vakkundig en snel.",
+    "title": "Reparatie & onderhoud",
+    "intro": "Wij verhelpen alles van een lekke band tot een complete onderhoudsbeurt — voor stadsfietsen, e-bikes en bakfietsen.",
+    "ebikeTitle": "E-bike accu service",
+    "ebikeIntro": "Diagnose, onderhoud en vervanging van accu’s, mid-motoren en displays. Onze specialiteit met hoog rendement.",
+    "coveredTitle": "Wat we doen",
+    "covered": [
+      "Banden & lekkages",
+      "Remmen & remblokken",
+      "Versnellingen (derailleur & naaf)",
+      "Ketting & aandrijving",
+      "Verlichting & bedrading",
+      "E-bike accu & mid-motor"
+    ]
+  },
+  "pricing": {
+    "metaTitle": "Onderhoud & service pakketten — Jouw Fietswerkplaats",
+    "metaDescription": "Onderhoudspakketten voor je fiets: City, Premium, E-bike en Green Rebuild. Professioneel onderhoud voor stadsfietsen, e-bikes, fatbikes & bakfietsen.",
+    "title": "Onderhoud & service pakketten",
+    "kicker": "Jouw Fietswerkplaats — Servicepakketten",
+    "intro": "Professioneel onderhoud voor stadsfietsen, e-bikes, fatbikes & bakfietsen.",
+    "includedTitle": "Inbegrepen bij elk pakket",
+    "included": "Montage van maximaal 3 standaard onderdelen inbegrepen in de arbeidskosten.",
+    "extraTitle": "Extra",
+    "extraMount": "Extra onderdeel montage: €10 per artikel.",
+    "extraParts": "Onderdelen worden apart berekend.",
+    "disclaimer": "Genoemde inclusies worden met de klant bevestigd. Prijzen zijn indicatief, incl. btw."
+  },
+  "refurbished": {
+    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswerkplaats",
+    "metaDescription": "Betaalbare, opgeknapte fietsen en e-bikes te koop in Amsterdam. Volledig nagekeken, getest en rijklaar. Vraag direct aan.",
+    "eyebrow": "Kringloop & refurbished",
+    "title": "Opgeknapte fietsen te koop",
+    "intro": "Elke fiets wordt door ons vakkundig opgeknapt, getest en rijklaar gemaakt. Duurzaam, betaalbaar en klaar voor de weg.",
+    "trust": ["Vakkundig opgeknapt", "Getest & veiligheidsgecheckt", "Duurzaam & gerecycled"],
+    "enquiryTitle": "Niets gevonden wat je zoekt?",
+    "enquiryIntro": "Onze voorraad wisselt doorlopend. Laat weten waar je naar op zoek bent — we zoeken gericht voor je."
+  },
+  "sale": {
+    "metaTitle": "Opgeknapte fietsen te koop — Jouw Fietswerkplaats",
+    "metaDescription": "Betaalbare, opgeknapte fietsen en e-bikes te koop in Amsterdam. Volledig nagekeken en rijklaar.",
+    "title": "Fietsen te koop",
+    "intro": "Onze opgeknapte fietsen en e-bikes: volledig nagekeken, rijklaar en duurzaam. Beter voor je portemonnee én de planeet.",
+    "leadNote": "De voorraad wisselt doorlopend. Zie je iets dat je leuk vindt? Doe een aanvraag of stuur een WhatsApp-bericht — we reageren snel en je kunt langskomen om te passen.",
+    "conditionRefurbished": "Gereviseerd",
+    "from": "vanaf",
+    "cta": "Aanvragen",
+    "ctaAria": "Aanvragen:",
+    "disclaimer": "Genoemde bedragen zijn vanaf-prijzen en hangen af van model en staat. Vraag naar de actuele voorraad.",
+    "disclaimerLive": "Prijzen zijn incl. btw. De voorraad wisselt doorlopend — kom langs om te passen en een proefritje te maken.",
+    "emptyNote": "Op dit moment is alles verkocht. Er komen doorlopend nieuwe fietsen bij — laat hieronder weten wat je zoekt of kom langs in de winkel.",
+    "enquiryPrefill": "Ik heb interesse in: {bike}",
+    "waLabel": "Vraag via WhatsApp",
+    "waMessage": "Hoi! Ik heb interesse in de {bike} (vanaf €{price}) die ik op jullie site zag. Is deze op voorraad?",
+    "waMessageExact": "Hoi! Ik heb interesse in de {bike} (€{price}) die ik op jullie site zag. Referentie: {ref}. Is deze nog beschikbaar?",
+    "enquiryCrosslinkIntro": "Iets specifieks zoeken? Onze voorraad wisselt — laat weten wat je zoekt en we gaan ervoor op zoek.",
+    "enquiryCrosslinkCta": "Doe een aanvraag →"
+  },
+  "contact": {
+    "metaTitle": "Contact & openingstijden — Jouw Fietswerkplaats Amsterdam",
+    "metaDescription": "Bezoek Jouw Fietswerkplaats aan de Voorbeeldstraat 1 in Amsterdam. Bekijk openingstijden, bel of stuur een bericht.",
+    "title": "Contact",
+    "intro": "Loop binnen, bel of stuur een bericht. We helpen je graag verder.",
+    "formTitle": "Stuur ons een bericht"
+  },
+  "booking": {
+    "metaTitle": "Boek een reparatie — Jouw Fietswerkplaats",
+    "metaDescription": "Plan online een fietsreparatie bij Jouw Fietswerkplaats in Amsterdam. Kies je fietstype, omschrijf de klacht en kies een pakket.",
+    "title": "Boek een reparatie",
+    "intro": "Vul je gegevens in, omschrijf de klacht en kies een pakket. We nemen contact op om de afspraak te bevestigen."
+  },
+  "forms": {
+    "name": "Naam",
+    "email": "E-mailadres",
+    "phone": "Telefoon",
+    "message": "Je bericht",
+    "submit": "Versturen",
+    "bookSubmit": "Reparatie aanvragen",
+    "bikeType": "Type fiets",
+    "bikeTypePlaceholder": "Kies een type",
+    "issue": "Omschrijf de klacht",
+    "package": "Pakket (optioneel)",
+    "packagePlaceholder": "Kies een pakket",
+    "preferredDate": "Voorkeursdatum",
+    "successTitle": "Bedankt!",
+    "successBody": "We hebben je aanvraag ontvangen en nemen snel contact op.",
+    "error": "Er ging iets mis. Probeer het opnieuw of bel ons.",
+    "privacy": "We gebruiken je gegevens alleen om je aanvraag te behandelen.",
+    "waSend": "Versturen via WhatsApp",
+    "waBook": "Boeken via WhatsApp",
+    "orCall": "Of bel ons:",
+    "waContactIntro": "Hoi Jouw Fietswerkplaats! Ik heb een vraag.",
+    "waBookingIntro": "Hoi Jouw Fietswerkplaats! Ik wil een reparatie boeken.",
+    "waEnquiryIntro": "Hoi Jouw Fietswerkplaats! Ik heb een vraag over jullie opgeknapte fietsen.",
+    "waSuccessTitle": "WhatsApp wordt geopend…",
+    "waSuccessBody": "We hebben je bericht ingevuld — verstuur het in WhatsApp. Niet geopend? Gebruik de WhatsApp-knop of bel ons.",
+    "waPrivacy": "Je bericht opent in WhatsApp en bereikt ons via WhatsApp (Meta). We gebruiken je gegevens alleen om je aanvraag te behandelen.",
+    "bikeTypes": {
+      "city": "Stadsfiets",
+      "ebike": "E-bike",
+      "cargo": "Bakfiets",
+      "fat": "Fatbike",
+      "other": "Anders"
+    }
+  },
+  "footer": {
+    "tagline": "Fietsreparatie, onderhoud en refurbished fietsen in Amsterdam.",
+    "servicesCol": "Diensten",
+    "companyCol": "Bedrijf",
+    "social": "Volg ons",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "cookies": "Cookies"
+  },
+  "consent": {
+    "description": "We gebruiken cookies voor een betere ervaring en anonieme statistieken.",
+    "acceptAll": "Alles accepteren",
+    "acceptNecessary": "Alleen noodzakelijk",
+    "privacy": "Privacybeleid",
+    "cookiePolicy": "Cookiebeleid"
+  },
+  "scene": {
+    "explode": "Toon onderdelen",
+    "instruction": "Klik (desktop) of tik (mobiel) op het onderdeel dat gerepareerd moet worden",
+    "reset": "Samenvoegen",
+    "material": "Materiaal",
+    "service": "Service",
+    "bookThis": "Boek deze reparatie"
+  },
+  "legal": {
+    "privacyTitle": "Privacybeleid",
+    "termsTitle": "Algemene voorwaarden",
+    "cookiesTitle": "Cookiebeleid",
+    "placeholder": "Deze tekst wordt overgenomen vanuit de bestaande website en juridisch gecontroleerd vóór livegang.",
+    "socialProof": "Deze website toont openbare Instagram-posts en openbare Google-reviews van Jouw Fietswerkplaats, linkt terug naar de originele bronnen en respecteert verzoeken tot verwijdering.",
+    "privacyUpdated": "Laatst bijgewerkt: 1 juli 2026",
+    "privacyIntro": "Dit beleid legt uit welke persoonsgegevens Jouw Fietswerkplaats verzamelt via jouwwerkplaats.nl, waarom, en welke rechten je hebt. Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01), is de verwerkingsverantwoordelijke voor deze gegevens. Voor vragen over privacy mail je naar info@jouwwerkplaats.nl.",
+    "privacySections": [
+      {
+        "heading": "Welke persoonsgegevens we verzamelen",
+        "body": [
+          "We verzamelen alleen de persoonsgegevens die je zelf aan ons geeft, of die automatisch ontstaan doordat je onze website gebruikt:",
+          "Contactgegevens die je invult in een formulier: je naam, e-mailadres, telefoonnummer en de inhoud van je bericht of reparatie-/boekingsaanvraag.",
+          "Technische gegevens die automatisch worden verzameld: IP-adres, browser- en apparaattype, bezochte pagina's en verwijzende pagina — gebruikt voor beveiliging, prestaties en, met jouw toestemming, analyse.",
+          "Openbare social content: als je reageert op ons openbare Instagram-profiel of Google Bedrijfsprofiel, verwerkt dat platform je gegevens onder zijn eigen privacybeleid."
+        ]
+      },
+      {
+        "heading": "Contact-, offerte- en boekingsaanvragen",
+        "body": [
+          "Onze contact-, aanvraag- en boekingsformulieren werken via WhatsApp: wanneer je een formulier verstuurt, opent WhatsApp (web of app) met je bericht al ingevuld, gericht aan ons bedrijfsnummer. We slaan de inhoud van deze formulieren niet op onze eigen servers of in een database op — je bericht gaat rechtstreeks van jouw toestel naar ons WhatsApp Business-account, waar we het behandelen als een gewoon WhatsApp-gesprek. WhatsApp wordt aangeboden door WhatsApp Ireland Limited / Meta Platforms en verwerkt dat bericht onder het eigen privacybeleid van Meta/WhatsApp.",
+          "We gebruiken de informatie die je ons stuurt alleen om je vraag te beantwoorden, een offerte op te stellen of je reparatie of service in te plannen, en we bewaren het gesprek zolang als redelijkerwijs nodig is om je te helpen (bijvoorbeeld voor garantie-opvolging).",
+          "Grondslag: uitvoering van een overeenkomst of stappen op jouw verzoek voorafgaand daaraan (art. 6(1)(b) AVG), en ons gerechtvaardigd belang om aanvragen te beantwoorden (art. 6(1)(f) AVG)."
+        ]
+      },
+      {
+        "heading": "Cookies en analyse",
+        "body": [
+          "We laden Google Analytics (GA4) pas nadat je actief analytische cookies hebt geaccepteerd via de cookiebanner; daarvoor blijft analytics-opslag op \"geweigerd\" staan en worden er geen analytische cookies geplaatst. IP-adressen worden geanonimiseerd. Je kunt je toestemming op elk moment intrekken door je cookies te wissen of je keuze via de cookiebanner te wijzigen. Zie ons Cookiebeleid voor de volledige lijst met cookies en hoe je ze kunt beheren.",
+          "Grondslag: toestemming (art. 6(1)(a) AVG)."
+        ]
+      },
+      {
+        "heading": "Google Maps, Google-reviews en Instagram",
+        "body": [
+          "Sommige pagina's bevatten een Google Maps-locatie, tonen openbare Google-reviews van ons bedrijf (via de Google Places API), of laten onze eigen openbare Instagram-posts zien (via de Instagram Graph API). Het laden van deze onderdelen kan ervoor zorgen dat Google of Meta technische gegevens, zoals je IP-adres, verwerkt onder hun eigen privacybeleid. We tonen alleen echte, openbaar beschikbare reviews en posts, en linken altijd terug naar de originele bron.",
+          "Grondslag: ons gerechtvaardigd belang om onze locatie, reputatie en werk te laten zien (art. 6(1)(f) AVG)."
+        ]
+      },
+      {
+        "heading": "Hosting",
+        "body": [
+          "Deze website wordt gehost door Vercel Inc. Zoals elke webhost verwerkt Vercel's infrastructuur standaard serverlogs (zoals IP-adres, tijdstip en opgevraagde pagina) om de site te leveren, te beveiligen en misbruik te detecteren."
+        ]
+      },
+      {
+        "heading": "Met wie we jouw gegevens delen",
+        "body": [
+          "We verkopen jouw persoonsgegevens niet. We delen ze alleen met de dienstverleners die ons helpen deze website en ons bedrijf te runnen — zoals Meta/WhatsApp voor berichten, Google voor kaarten, reviews en analyse, en Vercel voor hosting — en alleen voor zover nodig voor de hierboven beschreven doelen, of wanneer de wet dit vereist (bijvoorbeeld de belastingdienst).",
+          "Sommige van deze dienstverleners kunnen gegevens verwerken buiten de Europese Economische Ruimte, waaronder in de Verenigde Staten. Waar dit gebeurt, gebruiken zij passende waarborgen, zoals de EU-standaardcontractbepalingen, om jouw gegevens te beschermen."
+        ]
+      },
+      {
+        "heading": "Hoe lang we jouw gegevens bewaren",
+        "body": [
+          "Aanvragen en boekingen: bewaard in ons WhatsApp Business-account en, waar relevant, onze reparatieadministratie, zolang als nodig is om je te helpen en garantie te honoreren, daarna verwijderd.",
+          "Analysegegevens: bewaard door Google Analytics voor de periode die in ons account is ingesteld, in lijn met de bewaarinstellingen van Google.",
+          "Administratieve gegevens die we wettelijk moeten bewaren, zoals facturen, worden bewaard voor de wettelijke Nederlandse bewaartermijn (momenteel 7 jaar)."
+        ]
+      },
+      {
+        "heading": "Jouw rechten",
+        "body": [
+          "Onder de AVG heb je het recht om inzage te vragen in de persoonsgegevens die we van je hebben, ons te vragen onjuiste gegevens te corrigeren, ons te vragen je gegevens te verwijderen, de verwerking van je gegevens te beperken of hiertegen bezwaar te maken, een kopie van je gegevens in een overdraagbaar formaat op te vragen, en je toestemming op elk moment in te trekken, zonder gevolgen voor de verwerking die plaatsvond vóór de intrekking.",
+          "Om een van deze rechten uit te oefenen, mail je naar info@jouwwerkplaats.nl. Ben je niet tevreden met onze reactie? Dan heb je het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl)."
+        ]
+      },
+      {
+        "heading": "Beveiliging",
+        "body": [
+          "We nemen redelijke technische en organisatorische maatregelen om jouw gegevens te beschermen tegen verlies, misbruik en ongeautoriseerde toegang, waaronder het vertrouwen op de end-to-end-encryptie van WhatsApp voor berichten en het gebruik van betrouwbare, beveiligingsbewuste dienstverleners (Google, Meta, Vercel) voor de hierboven beschreven diensten."
+        ]
+      },
+      {
+        "heading": "Kinderen",
+        "body": [
+          "Deze website en onze diensten zijn niet gericht op kinderen, en we verzamelen niet bewust persoonsgegevens van kinderen."
+        ]
+      },
+      {
+        "heading": "Wijzigingen in dit beleid",
+        "body": [
+          "We kunnen dit privacybeleid van tijd tot tijd bijwerken, bijvoorbeeld wanneer we een nieuwe tool of dienst gaan gebruiken. De versie die op deze pagina is gepubliceerd, is altijd de meest actuele."
+        ]
+      }
+    ],
+    "termsUpdated": "Laatst bijgewerkt: 2 juli 2026",
+    "termsIntro": "Deze algemene voorwaarden gelden voor alle offertes, reparaties, onderhoud, diensten en de verkoop van refurbished fietsen door Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, BTW NL000000000B01). Door een reparatie te boeken of een fiets bij ons te kopen, ga je akkoord met deze voorwaarden. Vragen? Mail naar info@jouwwerkplaats.nl of stuur ons een WhatsApp-bericht.",
+    "termsSections": [
+      {
+        "heading": "1. Wie we zijn",
+        "body": [
+          "Jouw Fietswerkplaats is een fietsenwerkplaats in Amsterdam voor fietsreparatie, onderhoud en refurbished fietsen. Deze voorwaarden gelden voor elke overeenkomst tussen Jouw Fietswerkplaats en jou als klant, tenzij we schriftelijk uitdrukkelijk iets anders afspreken."
+        ]
+      },
+      {
+        "heading": "2. Offertes en prijzen",
+        "body": [
+          "Prijzen op deze website zijn indicatieve vanafprijzen in euro's, inclusief btw, tenzij anders vermeld. De uiteindelijke prijs van een reparatie hangt af van de werkelijke staat van je fiets en de benodigde onderdelen.",
+          "Voordat we werk uitvoeren dat aanzienlijk duurder is dan de aangegeven of afgesproken prijs, nemen we eerst contact met je op voor akkoord. Een offerte is vrijblijvend totdat je deze accepteert."
+        ]
+      },
+      {
+        "heading": "3. Reparaties en onderhoud",
+        "body": [
+          "Je kunt een reparatie boeken via de website (het formulier opent een WhatsApp-gesprek), telefonisch, of door langs te komen in de werkplaats. Een boeking is definitief zodra we via WhatsApp, telefoon of in persoon een datum en tijd hebben afgesproken.",
+          "Als we tijdens een reparatie extra gebreken ontdekken die de veiligheid of het afgesproken werk beïnvloeden, laten we dit weten vóórdat we extra werk uitvoeren, samen met een aangepaste prijs.",
+          "We gebruiken nieuwe of kwalitatief goede gebruikte onderdelen die passen bij de reparatie. Vervangen onderdelen worden afgevoerd, tenzij je bij het brengen van de fiets aangeeft dat je ze wilt houden."
+        ]
+      },
+      {
+        "heading": "4. Refurbished fietsen",
+        "body": [
+          "Refurbished fietsen zijn gebruikte fietsen die wij hebben geïnspecteerd, onderhouden en waar nodig gerepareerd. De staat en eventuele bekende cosmetische gebreken worden vóór aankoop beschreven of getoond.",
+          "Als consument heb je recht op de wettelijke conformiteitsgarantie: de fiets moet doen wat je er redelijkerwijs van mag verwachten. Deze wettelijke garantie geldt altijd, naast een eventuele specifieke garantie die we voor een bepaalde fiets afspreken."
+        ]
+      },
+      {
+        "heading": "5. Betaling",
+        "body": [
+          "Betaling vindt plaats bij het afronden van de reparatie of bij levering van de fiets, tenzij we anders afspreken. We accepteren de betaalmethoden die in de werkplaats worden gecommuniceerd.",
+          "De fiets blijft eigendom van Jouw Fietswerkplaats totdat deze volledig is betaald."
+        ]
+      },
+      {
+        "heading": "6. Garantie op reparaties",
+        "body": [
+          "We staan achter ons werk. Gaat een door ons uitgevoerde reparatie binnen een redelijke termijn kapot zonder dat dit aan jou ligt? Neem dan contact met ons op; we beoordelen het en herstellen het kosteloos als het defect te wijten is aan ons werk of aan de door ons geplaatste onderdelen.",
+          "De garantie geldt niet voor normale slijtage, schade door ongevallen, verkeerd gebruik, slecht onderhoud, of werkzaamheden die na onze reparatie door anderen aan de fiets zijn uitgevoerd."
+        ]
+      },
+      {
+        "heading": "7. Een afspraak annuleren",
+        "body": [
+          "Je kunt een reparatieafspraak kosteloos annuleren of verzetten via WhatsApp of telefoon. Laat het ons zo vroeg mogelijk weten, zodat we het tijdslot aan iemand anders kunnen aanbieden.",
+          "Is het werk al gestart op het moment dat je annuleert? Dan kunnen we de uitgevoerde werkzaamheden en de al geplaatste of speciaal voor jouw fiets bestelde onderdelen in rekening brengen."
+        ]
+      },
+      {
+        "heading": "8. Niet-opgehaalde fietsen",
+        "body": [
+          "Haal je fiets binnen een redelijke termijn op nadat we hebben laten weten dat de reparatie klaar is. Wordt een fiets ondanks herinneringen niet binnen 3 maanden na dat bericht opgehaald? Dan kunnen we redelijke stallingskosten in rekening brengen en, na een laatste schriftelijke waarschuwing, de fiets verkopen om onze kosten te verhalen, in overeenstemming met de Nederlandse wet."
+        ]
+      },
+      {
+        "heading": "9. Aansprakelijkheid",
+        "body": [
+          "We zorgen goed voor je fiets zolang deze bij ons is. We zijn aansprakelijk voor schade die het directe gevolg is van een aan ons toerekenbare tekortkoming, tot het bedrag dat onze verzekering in het betreffende geval uitkeert, of anders tot het factuurbedrag van de betreffende opdracht.",
+          "We zijn niet aansprakelijk voor het verlies van spullen of accessoires die op of bij de fiets zijn achtergelaten, tenzij ze bij ons zijn gemeld en door ons zijn opgeborgen. Niets in deze voorwaarden beperkt aansprakelijkheid die wettelijk niet beperkt kan worden, zoals bij opzet of grove nalatigheid."
+        ]
+      },
+      {
+        "heading": "10. Klachten",
+        "body": [
+          "Ergens niet tevreden over? Neem contact met ons op via info@jouwwerkplaats.nl of WhatsApp en beschrijf het probleem. We reageren binnen een redelijke termijn en proberen het eerst samen op te lossen.",
+          "Komen we er samen niet uit? Dan is Nederlands recht van toepassing en kunnen geschillen worden voorgelegd aan de bevoegde Nederlandse rechter."
+        ]
+      },
+      {
+        "heading": "11. Wijzigingen in deze voorwaarden",
+        "body": [
+          "We kunnen deze voorwaarden van tijd tot tijd aanpassen. De versie die op deze pagina is gepubliceerd, geldt voor nieuwe overeenkomsten vanaf het moment van publicatie."
+        ]
+      }
+    ],
+    "cookiesUpdated": "Laatst bijgewerkt: 2 juli 2026",
+    "cookiesIntro": "Dit cookiebeleid legt uit welke cookies en vergelijkbare technieken deze website gebruikt, waarom, en hoe je ze kunt beheren. Het wordt aangeboden door Jouw Fietswerkplaats, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). Voor vragen mail je naar info@jouwwerkplaats.nl.",
+    "cookiesSections": [
+      {
+        "heading": "Wat zijn cookies?",
+        "body": [
+          "Cookies zijn kleine tekstbestanden die een website op je apparaat opslaat om informatie te onthouden — bijvoorbeeld je voorkeuren of hoe je de site gebruikt. We gebruiken ook vergelijkbare technieken zoals local storage, dat op vrijwel dezelfde manier werkt. In dit beleid bedoelen we met \"cookies\" beide."
+        ]
+      },
+      {
+        "heading": "Noodzakelijke cookies",
+        "body": [
+          "Deze zijn nodig om de website goed te laten werken en kunnen niet worden uitgeschakeld. We gebruiken één item in local storage, \"max-consent-v1\", dat jouw cookiekeuze onthoudt zodat we er niet bij elk bezoek opnieuw om hoeven te vragen. Het bevat alleen je toestemmingsvoorkeur en blijft op je apparaat staan totdat je je browsergegevens wist.",
+          "Voor noodzakelijke cookies is geen toestemming vereist."
+        ]
+      },
+      {
+        "heading": "Analytische cookies (alleen met jouw toestemming)",
+        "body": [
+          "Met jouw toestemming gebruiken we Google Analytics 4 om te begrijpen hoe bezoekers onze website gebruiken — bijvoorbeeld welke pagina's populair zijn — zodat we de site kunnen verbeteren. Google Analytics plaatst cookies zoals \"_ga\" en \"_ga_*\", die doorgaans maximaal 2 jaar geldig blijven.",
+          "We gebruiken Google Consent Mode v2: analytics-opslag staat standaard op \"geweigerd\" en Google Analytics plaatst pas cookies nadat je in de cookiebanner op \"Alles accepteren\" hebt geklikt. Kies je \"Alleen noodzakelijk\"? Dan worden er geen analytische cookies geplaatst. IP-adressen worden geanonimiseerd.",
+          "Google kan deze gegevens verwerken volgens zijn eigen privacybeleid, ook op servers buiten de Europese Economische Ruimte, beschermd met passende waarborgen zoals de EU-standaardcontractbepalingen."
+        ]
+      },
+      {
+        "heading": "Marketingcookies",
+        "body": [
+          "We gebruiken op dit moment geen advertentie- of marketingcookies. Verandert dat ooit, dan werken we dit beleid bij en vragen we eerst je toestemming via de cookiebanner."
+        ]
+      },
+      {
+        "heading": "Content van derden",
+        "body": [
+          "Sommige pagina's bevatten content van derden, zoals een Google Maps-locatie, openbare Google-reviews of onze eigen openbare Instagram-posts. Het laden van deze content kan ervoor zorgen dat Google of Meta technische gegevens, zoals je IP-adres, verwerkt onder hun eigen privacy- en cookiebeleid."
+        ]
+      },
+      {
+        "heading": "Je toestemming beheren of intrekken",
+        "body": [
+          "Je kunt je cookiekeuze op elk moment intrekken of wijzigen. Verwijder de cookies en sitegegevens van deze website via je browserinstellingen — de cookiebanner verschijnt dan bij je volgende bezoek opnieuw en je kunt een nieuwe keuze maken.",
+          "Je kunt cookies ook volledig blokkeren of verwijderen via je browserinstellingen. Raadpleeg de helppagina's van je browser voor instructies. Het blokkeren van noodzakelijke cookies kan de werking van de website beïnvloeden.",
+          "Meer weten over hoe we met persoonsgegevens omgaan? Zie ons privacybeleid."
+        ]
+      },
+      {
+        "heading": "Wijzigingen in dit beleid",
+        "body": [
+          "We kunnen dit cookiebeleid van tijd tot tijd bijwerken, bijvoorbeeld wanneer we een nieuwe dienst gaan gebruiken. De versie die op deze pagina is gepubliceerd, is altijd de meest actuele."
+        ]
+      }
+    ]
+  }
+}

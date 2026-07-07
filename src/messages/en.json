@@ -1,0 +1,417 @@
+{
+  "common": {
+    "call": "Call us",
+    "whatsapp": "WhatsApp",
+    "bookRepair": "Book a repair",
+    "viewPricing": "View pricing",
+    "allServices": "All services",
+    "moreInfo": "More info",
+    "languageName": "English",
+    "visitTitle": "Visit the workshop"
+  },
+  "nav": {
+    "home": "Home",
+    "repair": "Repair & maintenance",
+    "pricing": "Pricing",
+    "refurbished": "Refurbished bikes for sale",
+    "contact": "Contact"
+  },
+  "home": {
+    "metaTitle": "Your Bike Shop — bike repair & e-bike service in Amsterdam",
+    "metaDescription": "Bike workshop in Amsterdam for repair, maintenance and e-bike battery service. Plus refurbished recycled bikes. Book a repair fast.",
+    "heroEyebrow": "Bike workshop in Amsterdam",
+    "heroTitle": "Your Bike Shop",
+    "heroSubtitle": "Repair, maintenance and e-bike service by an expert mechanic. And we refurbish old bikes into affordable, reliable models.",
+    "servicesKicker": "What we do",
+    "servicesTitle": "Our services",
+    "servicesIntro": "From a quick fix to a full e-bike service.",
+    "pricingKicker": "Pricing",
+    "pricingTitle": "Maintenance packages",
+    "pricingIntro": "Clear package pricing, no surprises.",
+    "brandsTitle": "Brands we service",
+    "statsTitle": "Local, expert, sustainable",
+    "trustTitle": "Why Your Bike Shop",
+    "trustIntro": "Craftsmanship, fair pricing and a focus on sustainability.",
+    "refurbKicker": "Our mission",
+    "refurbTitle": "From old bike to new favourite",
+    "refurbBody": "We give discarded bikes a second life: fully inspected and refurbished into reliable, affordable models. Better for your wallet and the planet.",
+    "refurbCta": "Explore refurbished",
+    "faqTitle": "Frequently asked questions",
+    "ctaKicker": "Let’s go",
+    "ctaTitle": "Ready to get your bike fixed?",
+    "ctaSubtitle": "Book a repair or ask your question straight away on WhatsApp.",
+    "visitTitle": "Visit the workshop"
+  },
+  "trust": {
+    "brands": "Brands serviced",
+    "packages": "Maintenance packages",
+    "ebike": "E-bike specialist",
+    "refurb": "Refurbished & recycle",
+    "projects": "Projects",
+    "clients": "Clients",
+    "awards": "Awards"
+  },
+  "social": {
+    "reviewsKicker": "What customers say",
+    "reviewsTitle": "Rated by our customers",
+    "reviewsIntro": "Real reviews from customers in and around Amsterdam.",
+    "reviewsNoun": "Google reviews",
+    "onGoogle": "reviews on Google",
+    "readAll": "Read all reviews on Google",
+    "leaveReview": "Leave a review",
+    "via": "via Google",
+    "instagramKicker": "Our work",
+    "instagramTitle": "See us at work",
+    "instagramIntro": "Repairs, refurbished bikes and before/afters — follow us on Instagram.",
+    "follow": "Follow @{handle}"
+  },
+  "repair": {
+    "metaTitle": "Repair & maintenance — Your Bike Shop Amsterdam",
+    "metaDescription": "Bike repair and maintenance in Amsterdam: tyres, brakes, gears and e-bike battery service. Expert and fast.",
+    "title": "Repair & maintenance",
+    "intro": "We fix everything from a flat tyre to a full service — for city bikes, e-bikes and cargo bikes.",
+    "ebikeTitle": "E-bike battery service",
+    "ebikeIntro": "Diagnostics, maintenance and replacement of batteries, mid-motors and displays. Our high-value speciality.",
+    "coveredTitle": "What we do",
+    "covered": [
+      "Tyres & punctures",
+      "Brakes & brake pads",
+      "Gears (derailleur & hub)",
+      "Chain & drivetrain",
+      "Lights & wiring",
+      "E-bike battery & mid-motor"
+    ]
+  },
+  "pricing": {
+    "metaTitle": "Maintenance & service packages — Your Bike Shop",
+    "metaDescription": "Bike maintenance packages: City, Premium, E-bike and Green Rebuild. Professional maintenance for city bikes, e-bikes, fatbikes & cargo bikes.",
+    "title": "Maintenance & service packages",
+    "kicker": "Your Bike Shop — Service packages",
+    "intro": "Professional maintenance for city bikes, e-bikes, fatbikes & cargo bikes.",
+    "includedTitle": "Included with every package",
+    "included": "Mounting of up to 3 standard parts included in the labour costs.",
+    "extraTitle": "Extra",
+    "extraMount": "Extra part mounting: €10 per item.",
+    "extraParts": "Parts are billed separately.",
+    "disclaimer": "Listed inclusions are confirmed with the customer. Prices are indicative, incl. VAT."
+  },
+  "refurbished": {
+    "metaTitle": "Refurbished bikes for sale — Your Bike Shop",
+    "metaDescription": "Affordable refurbished bikes and e-bikes for sale in Amsterdam. Fully serviced, tested and road-ready. Enquire directly.",
+    "eyebrow": "Recycled & refurbished",
+    "title": "Refurbished bikes for sale",
+    "intro": "Every bike is expertly refurbished, tested and made road-ready. Sustainable, affordable and ready to ride.",
+    "trust": ["Expertly refurbished", "Tested & safety-checked", "Sustainable & recycled"],
+    "enquiryTitle": "Didn’t find what you’re looking for?",
+    "enquiryIntro": "Our stock changes regularly. Tell us what you’re after — we’ll search specifically for you."
+  },
+  "sale": {
+    "metaTitle": "Refurbished bikes for sale — Your Bike Shop",
+    "metaDescription": "Affordable refurbished bikes and e-bikes for sale in Amsterdam. Fully serviced and road-ready.",
+    "title": "Bikes for sale",
+    "intro": "Our refurbished bikes and e-bikes: fully serviced, road-ready and sustainable. Better for your wallet and the planet.",
+    "leadNote": "Stock changes regularly. See something you like? Send an enquiry or a WhatsApp message — we reply fast and you're welcome to come try it.",
+    "conditionRefurbished": "Refurbished",
+    "from": "from",
+    "cta": "Enquire",
+    "ctaAria": "Enquire about:",
+    "disclaimer": "Prices shown are starting prices and depend on the model and condition. Ask about current stock.",
+    "disclaimerLive": "Prices include VAT. Stock changes regularly — come by to try the bike and take a test ride.",
+    "emptyNote": "Everything is sold out right now. New bikes are added all the time — tell us below what you're looking for or drop by the shop.",
+    "enquiryPrefill": "I'm interested in: {bike}",
+    "waLabel": "Ask on WhatsApp",
+    "waMessage": "Hi! I'm interested in the {bike} (from €{price}) I saw on your site. Is it in stock?",
+    "waMessageExact": "Hi! I'm interested in the {bike} (€{price}) I saw on your site. Reference: {ref}. Is it still available?",
+    "enquiryCrosslinkIntro": "Looking for something specific? Our stock rotates — tell us what you want and we'll hunt it down.",
+    "enquiryCrosslinkCta": "Send an enquiry →"
+  },
+  "contact": {
+    "metaTitle": "Contact & opening hours — Your Bike Shop Amsterdam",
+    "metaDescription": "Visit Your Bike Shop at Voorbeeldstraat 1 in Amsterdam. See opening hours, call or send a message.",
+    "title": "Contact",
+    "intro": "Drop by, call or send a message. We’re happy to help.",
+    "formTitle": "Send us a message"
+  },
+  "booking": {
+    "metaTitle": "Book a repair — Your Bike Shop",
+    "metaDescription": "Book a bike repair online at Your Bike Shop in Amsterdam. Choose your bike type, describe the issue and pick a package.",
+    "title": "Book a repair",
+    "intro": "Fill in your details, describe the issue and pick a package. We’ll get in touch to confirm the appointment."
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Your message",
+    "submit": "Send",
+    "bookSubmit": "Request repair",
+    "bikeType": "Bike type",
+    "bikeTypePlaceholder": "Choose a type",
+    "issue": "Describe the issue",
+    "package": "Package (optional)",
+    "packagePlaceholder": "Choose a package",
+    "preferredDate": "Preferred date",
+    "successTitle": "Thank you!",
+    "successBody": "We’ve received your request and will be in touch soon.",
+    "error": "Something went wrong. Please try again or call us.",
+    "privacy": "We only use your details to handle your request.",
+    "waSend": "Send via WhatsApp",
+    "waBook": "Book via WhatsApp",
+    "orCall": "Or call us:",
+    "waContactIntro": "Hi Your Bike Shop! I have a question.",
+    "waBookingIntro": "Hi Your Bike Shop! I’d like to book a repair.",
+    "waEnquiryIntro": "Hi Your Bike Shop! I have a question about your refurbished bikes.",
+    "waSuccessTitle": "Opening WhatsApp…",
+    "waSuccessBody": "We’ve prefilled your message — just hit send in WhatsApp. Didn’t it open? Use the WhatsApp button or call us.",
+    "waPrivacy": "Your message opens in WhatsApp and reaches us via WhatsApp (Meta). We use your details only to handle your request.",
+    "bikeTypes": {
+      "city": "City bike",
+      "ebike": "E-bike",
+      "cargo": "Cargo bike",
+      "fat": "Fatbike",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "tagline": "Bike repair, maintenance and refurbished bikes in Amsterdam.",
+    "servicesCol": "Services",
+    "companyCol": "Company",
+    "social": "Follow us",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies"
+  },
+  "consent": {
+    "description": "We use cookies for a better experience and anonymous statistics.",
+    "acceptAll": "Accept all",
+    "acceptNecessary": "Necessary only",
+    "privacy": "Privacy policy",
+    "cookiePolicy": "Cookie policy"
+  },
+  "scene": {
+    "explode": "Show parts",
+    "instruction": "Click (desktop) or Touch (mobile) the part you need to repair",
+    "reset": "Reassemble",
+    "material": "Parts",
+    "service": "Service",
+    "bookThis": "Book this repair"
+  },
+  "legal": {
+    "privacyTitle": "Privacy policy",
+    "termsTitle": "Terms & conditions",
+    "cookiesTitle": "Cookie policy",
+    "placeholder": "This text will be ported from the existing website and legally reviewed before launch.",
+    "socialProof": "This website displays Your Bike Shop's own public Instagram posts and public Google reviews, links back to the originals, and honours removal requests.",
+    "privacyUpdated": "Last updated: 1 July 2026",
+    "privacyIntro": "This policy explains what personal data Your Bike Shop collects through yourbikeshop.nl, why, and what rights you have. Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01), is the controller responsible for this data. For any privacy question, email info@yourbikeshop.nl.",
+    "privacySections": [
+      {
+        "heading": "What personal data we collect",
+        "body": [
+          "We only collect the personal data you choose to give us, or that is generated automatically while you use the website:",
+          "Contact details you enter in a form: your name, email address, phone number, and the content of your message or repair/booking request.",
+          "Technical data collected automatically: IP address, browser and device type, pages visited, and referring page — used for security, performance, and, with your consent, analytics.",
+          "Public social content: if you interact with our public Instagram profile or Google Business Profile, that platform processes your data under its own privacy policy."
+        ]
+      },
+      {
+        "heading": "Contact, quote and booking requests",
+        "body": [
+          "Our contact, enquiry, and booking forms are a WhatsApp intake: when you submit a form, it opens WhatsApp (web or app) with your message pre-filled, addressed to our business number. We do not store the contents of these forms on our own servers or in a database — your message goes directly from your device to our WhatsApp Business account, where we handle it like any other WhatsApp conversation. WhatsApp is operated by WhatsApp Ireland Limited / Meta Platforms and processes that message under Meta/WhatsApp's own privacy policy.",
+          "We use the information you send us only to answer your question, prepare a quote, or schedule your repair or service, and we keep the conversation for as long as reasonably needed to help you (for example, for warranty follow-up).",
+          "Legal basis: performance of a contract or steps taken at your request prior to entering one (Art. 6(1)(b) GDPR), and our legitimate interest in responding to enquiries (Art. 6(1)(f) GDPR)."
+        ]
+      },
+      {
+        "heading": "Cookies and analytics",
+        "body": [
+          "We only load Google Analytics (GA4) after you actively accept analytics cookies via the cookie banner; before that, analytics storage stays set to \"denied\" and no analytics cookies are placed. IP addresses are anonymised. You can withdraw consent at any time by clearing your cookies or changing your choice via the cookie banner. See our Cookie Policy for the full list of cookies and how to manage them.",
+          "Legal basis: consent (Art. 6(1)(a) GDPR)."
+        ]
+      },
+      {
+        "heading": "Google Maps, Google reviews and Instagram",
+        "body": [
+          "Some pages embed a Google Maps location, show public Google reviews of our business (via the Google Places API), or display our own public Instagram posts (via the Instagram Graph API). Loading these elements may cause Google or Meta to process technical data, such as your IP address, under their own privacy policies. We only display genuine, publicly available reviews and posts, and always link back to the original source.",
+          "Legal basis: our legitimate interest in showcasing our location, reputation, and work (Art. 6(1)(f) GDPR)."
+        ]
+      },
+      {
+        "heading": "Hosting",
+        "body": [
+          "This website is hosted by Vercel Inc. Like any web host, Vercel's infrastructure processes standard server logs (such as IP address, timestamp, and requested page) to serve the site, keep it secure, and detect abuse."
+        ]
+      },
+      {
+        "heading": "Who we share your data with",
+        "body": [
+          "We do not sell your personal data. We only share it with the service providers who help us run this website and our business — for example Meta/WhatsApp for messaging, Google for maps, reviews and analytics, and Vercel for hosting — and only to the extent necessary for the purposes described above, or where required by law (for example, tax administration).",
+          "Some of these providers may process data outside the European Economic Area, including in the United States. Where that happens, they rely on appropriate safeguards, such as the EU Standard Contractual Clauses, to protect your data."
+        ]
+      },
+      {
+        "heading": "How long we keep your data",
+        "body": [
+          "Enquiries and bookings: kept in our WhatsApp Business account and, where relevant, our repair records, for as long as needed to help you and honour any warranty, then deleted.",
+          "Analytics data: retained by Google Analytics for the period configured in our account, in line with Google's data retention settings.",
+          "Administrative records we must legally keep, such as invoices, are retained for the statutory Dutch retention period (currently 7 years)."
+        ]
+      },
+      {
+        "heading": "Your rights",
+        "body": [
+          "Under the GDPR (in Dutch: AVG) you have the right to ask for access to the personal data we hold about you, ask us to correct inaccurate data, ask us to erase your data, ask us to restrict or object to our processing, ask for a copy of your data in a portable format, and withdraw consent at any time, without affecting processing carried out before the withdrawal.",
+          "To exercise any of these rights, email info@yourbikeshop.nl. If you're not satisfied with our response, you have the right to lodge a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, autoriteitpersoonsgegevens.nl)."
+        ]
+      },
+      {
+        "heading": "Security",
+        "body": [
+          "We take reasonable technical and organisational measures to protect your data against loss, misuse, and unauthorised access, including relying on WhatsApp's end-to-end encryption for messages and using reputable, security-conscious providers (Google, Meta, Vercel) for the services described above."
+        ]
+      },
+      {
+        "heading": "Children",
+        "body": [
+          "This website and our services are not directed at children, and we do not knowingly collect personal data from children."
+        ]
+      },
+      {
+        "heading": "Changes to this policy",
+        "body": [
+          "We may update this privacy policy from time to time, for example when we start using a new tool or service. The version published on this page is always the current one."
+        ]
+      }
+    ],
+    "termsUpdated": "Last updated: 2 July 2026",
+    "termsIntro": "These terms and conditions apply to all quotes, repairs, maintenance, services, and sales of refurbished bikes by Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000, VAT NL000000000B01). By booking a repair or buying a bike from us, you agree to these terms. Questions? Email info@yourbikeshop.nl or message us on WhatsApp.",
+    "termsSections": [
+      {
+        "heading": "1. Who we are",
+        "body": [
+          "Your Bike Shop is a bike workshop in Amsterdam offering bike repair, maintenance, and refurbished bikes. These terms apply to every agreement between Your Bike Shop and you as a customer, unless we explicitly agree otherwise in writing."
+        ]
+      },
+      {
+        "heading": "2. Quotes and prices",
+        "body": [
+          "Prices shown on this website are indicative starting prices in euros, including VAT, unless stated otherwise. The final price of a repair depends on the actual condition of your bike and the parts needed.",
+          "Before we carry out work that costs significantly more than the indicated or agreed price, we contact you first for approval. A quote is free of obligation until you accept it."
+        ]
+      },
+      {
+        "heading": "3. Repairs and maintenance",
+        "body": [
+          "You can book a repair via the website (the form opens a WhatsApp conversation), by phone, or by dropping by the workshop. A booking is confirmed once we have agreed on a date and time via WhatsApp, phone, or in person.",
+          "If, during a repair, we find additional defects that affect safety or the agreed work, we let you know before performing extra work, together with an updated price.",
+          "We use new or good-quality used parts appropriate for the repair. Replaced parts are disposed of unless you ask to keep them when dropping off the bike."
+        ]
+      },
+      {
+        "heading": "4. Refurbished bikes",
+        "body": [
+          "Refurbished bikes are used bikes that we have inspected, serviced, and repaired where necessary. The condition and any known cosmetic flaws are described or shown before purchase.",
+          "As a consumer, you are entitled to the legal conformity guarantee under Dutch law: the bike must do what you may reasonably expect from it. This legal guarantee always applies, in addition to any specific warranty we agree on for a particular bike."
+        ]
+      },
+      {
+        "heading": "5. Payment",
+        "body": [
+          "Payment is due on completion of the repair or on delivery of the bike, unless we agree otherwise. We accept the payment methods communicated in the workshop.",
+          "The bike remains the property of Your Bike Shop until it has been paid for in full."
+        ]
+      },
+      {
+        "heading": "6. Warranty on repairs",
+        "body": [
+          "We stand behind our work. If a repair we performed fails within a reasonable period through no fault of yours, contact us and we will assess and fix it free of charge where the failure is attributable to our work or the parts we installed.",
+          "The warranty does not cover normal wear and tear, damage caused by accidents, misuse, poor maintenance, or work done on the bike by others after our repair."
+        ]
+      },
+      {
+        "heading": "7. Cancelling an appointment",
+        "body": [
+          "You can cancel or move a repair appointment free of charge via WhatsApp or phone. Please let us know as early as possible so we can offer the slot to someone else.",
+          "If work has already started when you cancel, we may charge for the work performed and parts already installed or ordered specifically for your bike."
+        ]
+      },
+      {
+        "heading": "8. Uncollected bikes",
+        "body": [
+          "Please collect your bike within a reasonable time after we let you know the repair is finished. If a bike is not collected within 3 months of that notice, despite reminders, we may charge reasonable storage costs and, after a final written warning, sell the bike to recover our costs in accordance with Dutch law."
+        ]
+      },
+      {
+        "heading": "9. Liability",
+        "body": [
+          "We take good care of your bike while it is with us. We are liable for damage that is the direct result of a shortcoming attributable to us, up to the amount our insurance pays out in the relevant case, or otherwise up to the invoice amount of the relevant job.",
+          "We are not liable for the loss of items or accessories left on or with the bike, unless they were reported and stored by us. Nothing in these terms limits liability that cannot legally be limited, such as for intent or gross negligence."
+        ]
+      },
+      {
+        "heading": "10. Complaints",
+        "body": [
+          "Not happy with something? Contact us at info@yourbikeshop.nl or via WhatsApp and describe the problem. We respond within a reasonable time and try to solve it together first.",
+          "If we cannot work it out, disputes are governed by Dutch law and may be submitted to the competent Dutch court."
+        ]
+      },
+      {
+        "heading": "11. Changes to these terms",
+        "body": [
+          "We may update these terms from time to time. The version published on this page applies to new agreements from the moment of publication."
+        ]
+      }
+    ],
+    "cookiesUpdated": "Last updated: 2 July 2026",
+    "cookiesIntro": "This cookie policy explains which cookies and similar technologies this website uses, why, and how you can manage them. It is provided by Your Bike Shop, Voorbeeldstraat 1, 1234 AB Amsterdam (KvK 00000000). For questions, email info@yourbikeshop.nl.",
+    "cookiesSections": [
+      {
+        "heading": "What are cookies?",
+        "body": [
+          "Cookies are small text files that a website stores on your device to remember information — for example your preferences or how you use the site. We also use similar technologies such as local storage, which works in much the same way. In this policy, \"cookies\" covers both."
+        ]
+      },
+      {
+        "heading": "Necessary cookies",
+        "body": [
+          "These are required for the website to work properly and cannot be switched off. We use one item of local storage, \"max-consent-v1\", which remembers your cookie choice so we don't ask you again on every visit. It contains only your consent preference and stays on your device until you clear your browser data.",
+          "No consent is required for necessary cookies."
+        ]
+      },
+      {
+        "heading": "Analytics cookies (only with your consent)",
+        "body": [
+          "With your consent, we use Google Analytics 4 to understand how visitors use our website — for example which pages are popular — so we can improve it. Google Analytics sets cookies such as \"_ga\" and \"_ga_*\", which typically remain valid for up to 2 years.",
+          "We use Google Consent Mode v2: analytics storage is set to \"denied\" by default, and Google Analytics only places cookies after you click \"Accept all\" in the cookie banner. If you choose \"Necessary only\", no analytics cookies are placed. IP addresses are anonymised.",
+          "Google may process this data in accordance with its own privacy policy, including on servers outside the European Economic Area, protected by appropriate safeguards such as the EU Standard Contractual Clauses."
+        ]
+      },
+      {
+        "heading": "Marketing cookies",
+        "body": [
+          "We do not currently use advertising or marketing cookies. If that ever changes, we will update this policy and ask for your consent first via the cookie banner."
+        ]
+      },
+      {
+        "heading": "Third-party content",
+        "body": [
+          "Some pages embed content from third parties, such as a Google Maps location, public Google reviews, or our own public Instagram posts. Loading this content may cause Google or Meta to process technical data, such as your IP address, under their own privacy and cookie policies."
+        ]
+      },
+      {
+        "heading": "Managing or withdrawing your consent",
+        "body": [
+          "You can withdraw or change your cookie choice at any time. Delete this website's cookies and site data in your browser settings — the cookie banner will then appear again on your next visit, and you can make a new choice.",
+          "You can also block or delete cookies entirely via your browser settings. Check your browser's help pages for instructions. Blocking necessary cookies may affect how the website works.",
+          "For more about how we handle personal data, see our privacy policy."
+        ]
+      },
+      {
+        "heading": "Changes to this policy",
+        "body": [
+          "We may update this cookie policy from time to time, for example when we start using a new service. The version published on this page is always the current one."
+        ]
+      }
+    ]
+  }
+}
